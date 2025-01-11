@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.utificationItemRequest/1.0.0/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:ProcessARequest>
+         
+      </ns:ProcessRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
